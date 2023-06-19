@@ -6,7 +6,7 @@
 
 <p>
 Lariat Car Rental company is a ficticious car rental company that has been featured in a few well-known television series, such as: Breaking Bad, Surpernatural, and Veronica Mars.  
-<br>
+<br><br>
 Lariat is committed to driving sustainable growth and optimizing its financial performance. With a strategic focus on profitability and cost efficiency, the company has established the following goals to align its operations:
 <br>
 <ul>
