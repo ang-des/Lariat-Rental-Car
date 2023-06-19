@@ -5,7 +5,9 @@
 </p>
 
 <p>
-Lariat Car Rental Company is committed to driving sustainable growth and optimizing its financial performance. With a strategic focus on profitability and cost efficiency, the company has established the following goals to align its operations:
+Lariat Car Rental company is a ficticious car rental company that has been featured in a few well-known television series, such as: Breaking Bad, Surpernatural, and Veronica Mars.  
+<br>
+Lariat is committed to driving sustainable growth and optimizing its financial performance. With a strategic focus on profitability and cost efficiency, the company has established the following goals to align its operations:
 <br>
 <ul>
   <li>Revenue Maximization</li>
@@ -19,7 +21,7 @@ Lariat Car Rental Company aims to achieve sustainable profitability, maintain a 
 
 <p>
   <b>Objective:</b><br><br>
-To devise profit optimization strategies using data analysis, and to deliver an interactive dashboard that demonstrates the strategies and their predictive results.
+To deliver an interactive dashboard for the shareholders that demonstrates the strategies and their predictive results. This dashboard formulates profit optimization strategies using data analysis.
 <br><br>
   <b>Tools and Techniques:</b><br>
 <ul>
