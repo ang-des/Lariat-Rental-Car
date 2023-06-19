@@ -18,10 +18,10 @@ Lariat Car Rental Company aims to achieve sustainable profitability, maintain a 
 </p>
 
 <p>
-#### Objective:
+  <b>Objective:</b>
 To devise profit optimization strategies using data analysis, and to deliver an interactive dashboard that demonstrates the strategies and their predictive results.
 <br>
-#### Tools and Techniques:
+  <b>Tools and Techniques:</b>
 <ul>
   <li>Excel</li>
   <li>Data consolidation, cleaning, validation, range protection</li>
