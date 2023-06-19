@@ -27,6 +27,7 @@ Three strategies were created to meet these goals, they are listed below:
   <li>To sell (x) number of vehicles that bring in the lowest profit and replace them with (x) number of vehicles that bring in the highest profits.</li>
 </ol>  
 </p>
+<br>
 
 <p>
   <b>Objective:</b><br><br>
