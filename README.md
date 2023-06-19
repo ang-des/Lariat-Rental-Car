@@ -26,10 +26,11 @@ To deliver an interactive dashboard for the shareholders that demonstrates the s
   <b>Tools and Techniques:</b><br>
 <ul>
   <li>Excel</li>
-  <li>Data consolidation, cleaning, validation, range protection</li>
-  <li>Descriptive statistics, predictive modeling</li>
-  <li>Customer Experience Enhancement</li>
   <li>Dashboarding</li>
+  <li>Data cleaning, consolidation, validation, protection</li>
+  <li>Descriptive statistics</li>
+  <li>Predictive modeling</li>
+  <li>Performance Tracking</li>
 </ul>
 </p>
 
