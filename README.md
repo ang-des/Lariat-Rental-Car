@@ -20,6 +20,15 @@ Lariat Car Rental Company aims to achieve sustainable profitability, maintain a 
 </p>
 
 <p>
+Three strategies were created to meet these goals, they are listed below:
+<ol>
+  <li>Increase the total number of vehicles in the Fleet</li>
+  <li>Increase the number of total number of rentals in a year</li>
+  <li>To sell (x) number of vehicles that bring in the lowest profit and replace them with (x) number of vehicles that bring in the highest profits.</li>
+</ol>  
+</p>
+
+<p>
   <b>Objective:</b><br><br>
 To deliver an interactive dashboard for the shareholders that demonstrates the strategies and their predictive results. This dashboard formulates profit optimization strategies using data analysis.
 <br><br>
@@ -32,15 +41,6 @@ To deliver an interactive dashboard for the shareholders that demonstrates the s
   <li>Predictive modeling</li>
   <li>Performance Tracking</li>
 </ul>
-</p>
-
-<p>
-Three strategies were created to meet these goals, they are listed below:
-<ol>
-  <li>Increase the total number of vehicles in the Fleet</li>
-  <li>Increase the number of total number of rentals in a year</li>
-  <li>To sell (x) number of vehicles that bring in the lowest profit and replace them with (x) number of vehicles that bring in the highest profits.</li>
-</ol>  
 </p>
 
 <br>
